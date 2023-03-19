@@ -1,0 +1,12 @@
+{
+    "dungeon_set": ["Helm of the Mountain", "Soulforge Breastplate", "Bloodforged Legplates"],
+    "raid_set": ["Helmet of Ten Storms", "Breastplate of Wrath", "Legplates of Wrath", "Gauntlets of Wrath",
+                 "Sabatons of Wrath"],
+    "pvp_set": ["Grand Marshal's Lamellar Helm", "Grand Marshal's Lamellar Breastplate",
+                "Grand Marshal's Lamellar Legplates"],
+    "paladin_set": ["Lightforge Helm", "Lightforge Chestpiece", "Lightforge Legplates", "Lightforge Gauntlets",
+                    "Lightforge Boots"],
+    "warrior_set": ["Warlord's Plate Headpiece", "Warlord's Plate Chestpiece", "Warlord's Plate Leggings",
+                    "Warlord's Plate Gauntlets", "Warlord's Plate Greaves"],
+    "shaman_set": ["The Earthfury", "Vestments of the Oracle", "Frostfire Regalia", "The Ten Storms"]
+}
